@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <nav className="navbar">
-        <h1>eShop</h1>
+        <h1>🍎 eShop</h1>
 
         <input
           type="text"
